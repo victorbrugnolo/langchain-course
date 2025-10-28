@@ -11,6 +11,7 @@ python-dotenv = "*"
 beautifulsoup4 = "*"
 pypdf = "*"
 langchain-community = "*"
+langchain-postgres = "*"
 
 [dev-packages]
 
